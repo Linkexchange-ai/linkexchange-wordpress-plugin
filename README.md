@@ -64,15 +64,15 @@ Index eligible published content to help find relevant link opportunities.
 Add **real screenshots from a working WordPress installation** to `assets/screenshots/` before publishing screenshots here. Do not publish mockups as genuine plugin screenshots or include account secrets/customer data.
 
 Recommended files:
-
-| File | What it should show |
-| --- | --- |
-| `assets/screenshots/dashboard.png` | Dashboard, overview, and status |
-| `assets/screenshots/broken-links.png` | Broken links and available fixes |
-| `assets/screenshots/internal-linking.png` | Internal linking recommendations |
-| `assets/screenshots/campaigns.png` | Backlink campaigns and targeting |
-| `assets/screenshots/wallet.png` | Credits and transaction history |
-
+<!--
+!| File | What it should show |
+!| --- | --- |
+!| `assets/screenshots/dashboard.png` | Dashboard, overview, and status |
+!| `assets/screenshots/broken-links.png` | Broken links and available fixes |
+!| `assets/screenshots/internal-linking.png` | Internal linking recommendations |
+!| `assets/screenshots/campaigns.png` | Backlink campaigns and targeting |
+!| `assets/screenshots/wallet.png` | Credits and transaction history |
+-->
 <!-- Uncomment each line after adding its real screenshot.
 ![LinkExchange Dashboard](assets/screenshots/dashboard.png)
 ![Broken Link Management](assets/screenshots/broken-links.png)
